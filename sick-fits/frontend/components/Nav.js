@@ -5,7 +5,7 @@ const Nav = () => (
 	<NavStyles>
 		<Link href="/items">items</Link>
 		<Link href="/sell">sell</Link>
-		<Link href="/singup">singup</Link>
+		<Link href="/signup">signup</Link>
 		<Link href="/orders">orders</Link>
 		<Link href="/me">me</Link>
 	</NavStyles>
